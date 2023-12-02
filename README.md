@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-khatib</h1>
-<h3 align="center">A passionate programmer from Yemen</h3>
+<h3 align="center">A 22 years old passionate programmer from Yemen who study computer network and security in UTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalkhatib1011&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalkhatib1011" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedalkhatib1011" alt="mohammedalkhatib1011" /></a> </p>
 
-- 🔭 I’m currently working on **PSM 1**
+- 🔭 I’m currently working on my final year projcet **CNN VS RNN**
 
 - 🌱 I’m currently learning **Deep Learning**
+
+- 🏫 I'm a **3rd year**
+
+- 🔴 I'm taking **TIS, PSM1, CRYPTO, AI**
+
+- 📝 certificate [CCNA1, CNNAV7](CCNA1, CNNAV7)
 
 - 💬 Ask me about **Anything related to our course**
 
 - 📫 How to reach me **haza20@gradaute.utm.my**
+
+- 📄 awards [Won the 3rb place FCSTARTUP](Won the 3rb place FCSTARTUP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
