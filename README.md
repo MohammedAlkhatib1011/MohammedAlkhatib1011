@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-khatib</h1>
-<h3 align="center">A 22 years old passionate programmer from Yemen who study computer network and security in UTM</h3>
+<h3 align="center">A 22 years old passionate programmer who study computer network and security in UTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedalkhatib1011&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedalkhatib1011" /> </p>
 
